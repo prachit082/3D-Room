@@ -1,4 +1,4 @@
-# ||3D-Animated Room||
+# 3D-Animated Room
 **3D Scrollable Animated Room using CSS, HTML & JavaScript**
 
 If you like this, then feel free to give it a star.⭐
